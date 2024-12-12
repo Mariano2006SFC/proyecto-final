@@ -18,7 +18,7 @@ Este es un proyecto para organizar tu colección de libros con información bás
   - [ ] Pendiente  
 - **Agregar una reseña personal a cada libro.**
 
-- [Harry poter](gestion-usuario/mariano/README.md)
+- [Harry poter](gestion-usuario/usuario/mariano/README.md)
 
 
 
