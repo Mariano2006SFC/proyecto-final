@@ -14,7 +14,7 @@ Este es un proyecto para organizar tu colección de libros con información bás
   - Año de publicación :1800 
 - **Categorizar los libros según su estado:**
   - [ ] Leído  
-  - [ ] Leyendo  
+  - [x] Leyendo  
   - [ ] Pendiente  
 - **Agregar una reseña personal a cada libro.**
 
