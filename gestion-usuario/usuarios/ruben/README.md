@@ -19,11 +19,3 @@
 - *Cien años de soledad* - Gabriel García Márquez  
 
 ---
-
-## 🛠️ **Historial de Cambios**
-- 12/12/2024: Comencé a leer *Sapiens: De animales a dioses*.  
-- 10/12/2024: Finalicé *El Alquimista*.  
-
----
-
-¡Disfrutando cada página en mi viaje literario! 📚✨
