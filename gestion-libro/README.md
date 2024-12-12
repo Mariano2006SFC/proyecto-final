@@ -12,10 +12,13 @@ Este es un proyecto para organizar tu colección de libros con información bás
   - Autor:pepe   
   - Género : no binario 
   - Año de publicación :1800 
-- **Categorizar los libros según su estado:**
+- **Estado de libro:**
   - [ ] Leído  
   - [x] Leyendo  
   - [ ] Pendiente  
 - **Agregar una reseña personal a cada libro.**
+
+- [Harry poter](gestion-usuario/mariano/README.md)
+
 
 
