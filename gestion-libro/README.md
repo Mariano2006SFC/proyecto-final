@@ -7,15 +7,17 @@ Este es un proyecto para organizar tu colección de libros con información bás
 
 ## ✏️ **Características**
 
-- **Agregar información básica de un libro:**
+- **Información básica de un libro:**
   - Título:harry poter  
   - Autor:pepe   
   - Género : no binario 
   - Año de publicación :1800
-  - **Estado de libro:**
+  - 
+- **Estado de libro:**
   - [ ] Leído  
   - [x] Leyendo  
-  - [ ] Pendiente  
+  - [ ] Pendiente
+- **Información básica de un libro:**
   - Título:El libro del calamar 
   - Autor:Manoli   
   - Género : Femenino 
