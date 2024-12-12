@@ -12,6 +12,11 @@
 - *El libro del calamar* - Manoli
   
 ---
+### **Pendiente**:
+- *Los pilares de la Tierra* - Ken Follett  
+- *Rayuela* - Julio Cortázar  
+
+---
 
 
 
