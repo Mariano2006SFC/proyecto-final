@@ -23,16 +23,4 @@ Este archivo contiene la información básica de los usuarios registrados en **B
 
 ---
 
-## 🛠️ **Cómo Agregar un Nuevo Usuario**
-1. Añade el nombre del usuario al final de la lista.  
-2. Indica los siguientes detalles:
-   - Cantidad de libros registrados.
-   - Géneros favoritos.
-   - Fecha de registro.  
 
-Ejemplo:
-```markdown
-4. **[Nombre del Usuario]**  
-   - Libros registrados: [Cantidad]  
-   - Géneros favoritos: [Géneros]  
-   - Miembro desde: [Fecha]  
