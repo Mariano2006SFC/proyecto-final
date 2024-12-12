@@ -11,14 +11,23 @@ Este es un proyecto para organizar tu colección de libros con información bás
   - Título:harry poter  
   - Autor:pepe   
   - Género : no binario 
-  - Año de publicación :1800 
-- **Estado de libro:**
+  - Año de publicación :1800
+  - **Estado de libro:**
   - [ ] Leído  
   - [x] Leyendo  
   - [ ] Pendiente  
+  - Título:El libro del calamar 
+  - Autor:Manoli   
+  - Género : Femenino 
+  - Año de publicación :1900
+- **Estado de libro:**
+  - [x] Leído  
+  - [ ] Leyendo  
+  - [ ] Pendiente  
 - **Agregar una reseña personal a cada libro.**
 
-- [Harry poter](gestion-usuario/usuario/mariano/README.md)
+- [Harry poter]:
+- [El libro del calamar]:
 
 
 
