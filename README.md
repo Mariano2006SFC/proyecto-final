@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ **Features**
+## 🛠️ **Caracteisticas**
 
 ### 📖 **Gestión de Listas Personales**
 - Organiza tus libros pendientes, en progreso y leídos.  
