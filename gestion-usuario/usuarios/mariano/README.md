@@ -6,18 +6,11 @@
 
 ## 📚 **Mi Lista de Libros**
 ### **Leídos**:
-- *Cien años de soledad* - Gabriel García Márquez  
-  _Reseña_: "Un viaje mágico a través de generaciones. Inolvidable."
-- *El Señor de los Anillos* - J.R.R. Tolkien  
-  _Reseña_: "Un mundo épico lleno de aventuras y lecciones profundas."
-
+- *Harry poter* - PEPE
+- 
 ### **Leyendo**:
-- *La sombra del viento* - Carlos Ruiz Zafón  
-
-### **Pendiente**:
-- *Los pilares de la Tierra* - Ken Follett  
-- *Rayuela* - Julio Cortázar  
-
+- *El libro del calamar* - Carlos Ruiz Zafón
+  
 ---
 
 ## 🛠️ **Historial de Cambios**
