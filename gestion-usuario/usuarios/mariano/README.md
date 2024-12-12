@@ -7,9 +7,9 @@
 ## 📚 **Mi Lista de Libros**
 ### **Leídos**:
 - *Harry poter* - PEPE
-- 
+  
 ### **Leyendo**:
-- *El libro del calamar* - Carlos Ruiz Zafón
+- *El libro del calamar* - Manoli
   
 ---
 
