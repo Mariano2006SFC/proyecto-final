@@ -8,14 +8,14 @@ Este es un proyecto para organizar tu colección de libros con información bás
 ## ✏️ **Características**
 
 - **Agregar información básica de un libro:**
-  - Título  
-  - Autor  
-  - Género  
-  - Año de publicación  
+  - Título:harry poter  
+  - Autor:pepe   
+  - Género : no binario 
+  - Año de publicación :1800 
 - **Categorizar los libros según su estado:**
-  - Leído  
-  - Leyendo  
-  - Pendiente  
+  - [ ] Leído  
+  - [ ] Leyendo  
+  - [ ] Pendiente  
 - **Agregar una reseña personal a cada libro.**
 
 
