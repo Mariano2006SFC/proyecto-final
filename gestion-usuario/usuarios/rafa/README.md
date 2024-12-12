@@ -19,11 +19,3 @@
 - *La Rebelión de Atlas* - Ayn Rand  
 
 ---
-
-## 🛠️ **Historial de Cambios**
-- 12/12/2024: Comencé a leer *Meditaciones*.  
-- 09/12/2024: Finalicé *1984*.  
-
----
-
-¡Siempre buscando ideas y aprendizajes en cada libro! 📚✨
