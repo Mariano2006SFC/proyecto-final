@@ -1,7 +1,7 @@
 # 📚 **Clubes de Lectura**
 
 ## Descripción
- Una funcionalidad para crear y unirse a **"clubes de lectura"**, donde los usuarios pueden compartir sus listas de libros, discutir títulos y conectarse con otros lectores.
+ Una funcionalidad donde los usuarios pueden compartir sus listas de libros, discutir títulos .
 
 ---
 
